@@ -1,0 +1,75 @@
+﻿  GameManager.cpp
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,62): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,62): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,62): warning C4244:             T=unsigned int
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,62): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,35): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,35): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,35): warning C4244:             T=unsigned int
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(137,35): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(565,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(565,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(565,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(565,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(565,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(566,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(566,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(566,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(566,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(566,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(567,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(567,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(567,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(567,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(567,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(568,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(568,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(568,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(568,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(568,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(569,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(584,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(584,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(584,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(584,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(584,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(585,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(585,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(585,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(585,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(585,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(586,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(586,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(586,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(586,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(586,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(587,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(587,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(587,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(587,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(587,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(588,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(603,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(603,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(603,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(603,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(603,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(604,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(604,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(604,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(604,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(604,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(605,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(605,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(605,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(605,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(605,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(606,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(606,10): warning C4244:         with
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(606,10): warning C4244:         [
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(606,10): warning C4244:             T=float
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(606,10): warning C4244:         ]
+C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\GameManager.cpp(607,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Users\Pham\Desktop\Chinhthuc (1)\Chinhthuc\Source\x64\Debug\Pong.exe
